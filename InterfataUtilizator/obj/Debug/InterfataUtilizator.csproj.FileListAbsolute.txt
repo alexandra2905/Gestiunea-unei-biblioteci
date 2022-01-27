@@ -1,0 +1,36 @@
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\bin\Debug\InterfataUtilizator.exe.config
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\bin\Debug\InterfataUtilizator.exe
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\bin\Debug\InterfataUtilizator.pdb
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.Form1.resources
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.Prezentare.FormaAutor.resources
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.Prezentare.FormaCarte.resources
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.Prezentare.FormaClient.resources
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.Prezentare.FormaEditura.resources
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.Prezentare.FormaImprumut.resources
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.Properties.Resources.resources
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.exe
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.pdb
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\bin\Debug\Oracle.DataAccess.dll
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\bin\Debug\Oracle.Web.dll
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.csproj.CopyComplete
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Facultate an 3\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\bin\Debug\InterfataUtilizator.exe.config
+C:\Users\alexa\Desktop\Facultate an 3\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\bin\Debug\InterfataUtilizator.exe
+C:\Users\alexa\Desktop\Facultate an 3\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\bin\Debug\InterfataUtilizator.pdb
+C:\Users\alexa\Desktop\Facultate an 3\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\bin\Debug\Oracle.DataAccess.dll
+C:\Users\alexa\Desktop\Facultate an 3\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\bin\Debug\Oracle.Web.dll
+C:\Users\alexa\Desktop\Facultate an 3\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\Facultate an 3\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.Form1.resources
+C:\Users\alexa\Desktop\Facultate an 3\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.Prezentare.FormaAutor.resources
+C:\Users\alexa\Desktop\Facultate an 3\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.Prezentare.FormaCarte.resources
+C:\Users\alexa\Desktop\Facultate an 3\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.Prezentare.FormaClient.resources
+C:\Users\alexa\Desktop\Facultate an 3\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.Prezentare.FormaEditura.resources
+C:\Users\alexa\Desktop\Facultate an 3\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.Prezentare.FormaImprumut.resources
+C:\Users\alexa\Desktop\Facultate an 3\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.Properties.Resources.resources
+C:\Users\alexa\Desktop\Facultate an 3\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\Facultate an 3\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Facultate an 3\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.csproj.CopyComplete
+C:\Users\alexa\Desktop\Facultate an 3\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.exe
+C:\Users\alexa\Desktop\Facultate an 3\ProiectBDA\GestiuneBiblioteca\InterfataUtilizator\obj\Debug\InterfataUtilizator.pdb

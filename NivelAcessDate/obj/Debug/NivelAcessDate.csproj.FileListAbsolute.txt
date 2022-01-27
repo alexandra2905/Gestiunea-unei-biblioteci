@@ -1,0 +1,8 @@
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\NivelAcessDate\bin\Debug\NivelAcessDate.exe.config
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\NivelAcessDate\bin\Debug\NivelAcessDate.exe
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\NivelAcessDate\bin\Debug\NivelAcessDate.pdb
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\NivelAcessDate\obj\Debug\NivelAcessDate.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\NivelAcessDate\obj\Debug\NivelAcessDate.Properties.Resources.resources
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\NivelAcessDate\obj\Debug\NivelAcessDate.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\NivelAcessDate\obj\Debug\NivelAcessDate.exe
+C:\Users\alexa\Desktop\ProiectBDA\GestiuneBiblioteca\NivelAcessDate\obj\Debug\NivelAcessDate.pdb
